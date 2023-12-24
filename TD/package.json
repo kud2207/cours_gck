@@ -1,0 +1,19 @@
+{
+  "name": "td",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "chalk": "^4.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "postman-request": "^2.88.1-postman.33",
+    "yargs": "^17.7.2"
+  }
+}
